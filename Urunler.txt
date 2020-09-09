@@ -1,0 +1,14 @@
+
+1 Tugla adet 5 Isiklar
+2 Gazbeton kg 12 Ytong
+3 Kum kg 13 Pina
+4 Cakil kg 14 Yapi
+5 Micir kg 15 Keklik
+6 Demir kg 16 Hausport
+7 Cimento kg 17 Cimsa
+8 Betopan kg 18 Tepe
+9 Fayans kg 19 Ardex
+10 Seramik kg 20 Bien
+11 Tas kg 12 BTM
+12 Alci kg 13 ABS
+
